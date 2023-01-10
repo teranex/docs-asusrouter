@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-69fb8c1c","path":"/log/0.13.1.html","title":"0.13.1 🐛 Bugfix for HA 2022-12","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"🐛 Bug fixes","slug":"🐛-bug-fixes","link":"#🐛-bug-fixes","children":[]}],"git":{"updatedTime":1673344144000},"filePathRelative":"log/0.13.1.md"}');export{e as data};
